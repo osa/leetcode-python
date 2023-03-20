@@ -45,7 +45,7 @@ class Solution:
         for _, c in enumerate(s):
             if c in matches.values():
                 stack.append(c)
-            elif len(stack) == 0 || matches[c] != stack.pop():
+            elif not stack or matches[c] != stack.pop():
                  return False
 
         return len(stack) == 0
