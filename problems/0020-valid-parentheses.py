@@ -66,7 +66,7 @@ class TestValidParentheses(unittest.TestCase):
     def tearDown(self):
         pass
 
-    def test_empty_list(self):
+    def test_empty_string(self):
         # action
         actual = self.sut.isValid(s='')
 
