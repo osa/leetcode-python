@@ -45,16 +45,8 @@ class Solution:
         for _, c in enumerate(s):
             if c in matches.values():
                 stack.append(c)
-            else:
-                if len(stack) == 0:
-                    return False
-
-                peek = stack[len(stack) - 1]
-
-                if matches[c] == peek:
-                    stack.pop()
-                else:
-                    return False
+            elif len(stack) == 0 || matches[c] != stack.pop():
+                 return False
 
         return len(stack) == 0
 
