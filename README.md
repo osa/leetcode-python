@@ -6,3 +6,4 @@
 - [0021 Merge Two Sorted Lists](problems/0021-merge-two-sorted-lists.py)
 - [0121 Best Time to Buy and Sell Stock](problems/0121-best-time-to-buy-and-sell-stock.py)
 - [0125 Valid Palindrome](problems/0125-valid-palindrome.py)
+- [0242 Valid Anagram](problems/0125-valid-anagram.py)

@@ -38,7 +38,7 @@ import re
 import unittest
 
 class Solution(object):
-    def isPalindrome(self, s):
+    def isPalindrome(self, s: str):
         cleaned = re.sub(r'[^a-zA-Z0-9]+', '', s).lower()
         st = 0
         end = len(cleaned) - 1
