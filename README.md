@@ -8,3 +8,4 @@
 - [0125 Valid Palindrome](problems/0125-valid-palindrome.py)
 - [0242 Valid Anagram](problems/0125-valid-anagram.py)
 - [0206 Reverse Linked List](problems/0206-reverse-linked-list.py)
+- [0383 Ransom Note](problems/0383-ransom-note.py)
