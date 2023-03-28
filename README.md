@@ -9,3 +9,4 @@
 - [0242 Valid Anagram](problems/0125-valid-anagram.py)
 - [0206 Reverse Linked List](problems/0206-reverse-linked-list.py)
 - [0383 Ransom Note](problems/0383-ransom-note.py)
+- [0704 Binary Search](problems/0704-binary-search.py)
