@@ -37,7 +37,7 @@ s consists only of printable ASCII characters.
 import re
 import unittest
 
-class Solution(object):
+class Solution:
     def isPalindrome(self, s: str):
         cleaned = re.sub(r'[^a-zA-Z0-9]+', '', s).lower()
         st = 0
