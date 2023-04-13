@@ -1,3 +1,7 @@
 problems/__pycache__/
 Scripts
 Lib
+/shelf/
+/workspace.xml
+pyvenv.cfg
+.idea
