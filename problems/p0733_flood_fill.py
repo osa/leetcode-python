@@ -84,12 +84,13 @@ class TestFloodFill(unittest.TestCase):
         self.assertEqual(actual, [])
 
     def test_should_fill(self):
+        # setup
         image = [[1,1,1],[1,1,0],[1,0,1]]
-        print(image)
+        # print(image)
         
         # action
         actual = self.sut.floodFill(image=image, sr = 1, sc = 1, color = 2)
 
         # asserts
-        print(actual)
+        # print(actual)
         self.assertEqual(actual, [[2,2,2],[2,2,0],[2,0,1]])
