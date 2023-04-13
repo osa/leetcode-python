@@ -1,7 +1,7 @@
 # LeetCode Problems (https://leetcode.com/)
 ## Personal exercise to get familiar with python by solving leetcode problems
 
-- [0001 Two Sum](problems/p0001_Two_Sum.py)
+- [0001 Two Sum](problems/p0001_two_sum.py)
 - [0020 Valid Parentheses](problems/p0020_valid_parentheses.py)
 - [0021 Merge Two Sorted Lists](problems/p0021_merge_two_sorted_lists.py)
 - [0110 Balanced Binary Tree](problems/p0110_balanced_binary_tree.py)
