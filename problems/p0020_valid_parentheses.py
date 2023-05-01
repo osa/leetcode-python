@@ -33,6 +33,10 @@ s consists of parentheses only '()[]{}'.
 import unittest
 
 class Solution:
+    '''
+    space : O(n)
+    time: O(n)
+    '''
     def isValid(self, s: str) -> bool:
         stack = []
 

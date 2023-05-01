@@ -33,6 +33,10 @@ import unittest
 
 
 class Solution:
+    '''
+    space : O(1)
+    time: O(logn)
+    '''
     def search(self, nums: List[int], target: int) -> int:
         low = 0
         high = len(nums) - 1

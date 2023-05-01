@@ -35,6 +35,10 @@ from typing import List
 import unittest
 
 class Solution(object):
+    '''
+    space : O(n)
+    time: O(n)
+    '''
     def maxProfit(self, prices: List[int]):
         if len(prices) < 2:
             return 0
@@ -49,7 +53,6 @@ class Solution(object):
                 buy = price    
         
         return max_profit
-
 
 
 

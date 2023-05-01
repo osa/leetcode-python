@@ -28,6 +28,10 @@ s and t consist of lowercase English letters.
 import unittest
 
 class Solution(object):
+    '''
+    space : O(1)
+    time: O(n)
+    '''
     def isAnagram(self, s: str, t: str):
         if len(s) != len(t):
             return False

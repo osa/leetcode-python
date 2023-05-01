@@ -37,6 +37,10 @@ class TreeNode:
 
 
 class Solution:
+    '''
+    space : O(1)
+    time: O(n)
+    '''
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
         def height(node: Optional[TreeNode]) -> int:
             if node is None:
@@ -51,8 +55,6 @@ class Solution:
             return max(left_height, right_height) + 1
         
         return height(root) != -1
-    
-    
 
 
 

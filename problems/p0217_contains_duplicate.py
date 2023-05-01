@@ -31,6 +31,10 @@ from typing import List
 import unittest
 
 class Solution:
+    '''
+    space : O(n)
+    time: O(nlogn)
+    '''
     def containsDuplicate(self, nums: List[int]) -> bool:
         found = set()
         

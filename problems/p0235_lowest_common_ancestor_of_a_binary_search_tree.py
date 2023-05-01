@@ -47,6 +47,10 @@ class TreeNode:
 
 
 class Solution:
+    '''
+    space : O(1)
+    time: O(logn)
+    '''
     def lowestCommonAncestor(self, root: TreeNode, p: TreeNode, q: TreeNode) -> TreeNode:  
         ptr = root
         

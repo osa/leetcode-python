@@ -59,6 +59,10 @@ class ListNode:
 
 
 class Solution:
+    '''
+    space : O(1)
+    time: O(m+n)
+    '''
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
         head = ListNode(0)
         ptr = head
@@ -81,7 +85,6 @@ class Solution:
             
 
         return head.next
-    
 
 
 
