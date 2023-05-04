@@ -48,13 +48,13 @@ class Solution:
     time: O(nlogn)
     '''
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        result = {}
+        items = {}
 
         for i, num in enumerate(nums):
             temp = target - num
-            if temp in result:
-                return [result[temp], i]
-            result.update({num: i})
+            if temp in items:
+                return [items[temp], i]
+            items.update({num: i})
 
         return []
 
