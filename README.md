@@ -1,5 +1,5 @@
 # LeetCode Problems (https://leetcode.com/)
-## Personal exercise to get familiar with python by solving leetcode problems
+## Personal exercise to stay current with python by solving leetcode problems
 
 - [0001 Two Sum](problems/p0001_two_sum.py)
 - [0020 Valid Parentheses](problems/p0020_valid_parentheses.py)
