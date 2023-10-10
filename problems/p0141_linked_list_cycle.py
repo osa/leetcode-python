@@ -53,7 +53,7 @@ class ListNode:
 
 class Solution:
     '''
-    space : O(1)
+    space: O(1)
     time: O(n)
     '''
     def hasCycle(self, head: Optional[ListNode]) -> bool:

@@ -29,7 +29,7 @@ import unittest
 
 class Solution(object):
     '''
-    space : O(1)
+    space: O(1)
     time: O(n)
     '''
     def isAnagram(self, s: str, t: str):

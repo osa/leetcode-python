@@ -9,6 +9,7 @@
 - [0121 Best Time to Buy and Sell Stock](problems/p0121_best_time_to_buy_and_sell_stock.py)
 - [0125 Valid Palindrome](problems/p0125_valid_palindrome.py)
 - [0141 Linked List Cycle](problems/p0141_linked_list_cycle.py)
+- [0169 Majority Element](problems/p0169_majority_element.py)
 - [0206 Reverse Linked List](problems/p0206_reverse_linked_list.py)
 - [0217 Contains Duplicate](problems/p0217_contains_duplicate.py)
 - [0226 Invert Binary Tree](problems/p0226_invert_binary_tree.py)

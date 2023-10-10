@@ -31,7 +31,7 @@ import unittest
 
 class Solution(object):
     '''
-    space : O(1) This can be longer than n but it is constant
+    space: O(1) This can be longer than n but it is constant
     time: O(m+n)
     '''
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:

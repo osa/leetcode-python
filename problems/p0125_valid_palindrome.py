@@ -39,7 +39,7 @@ import unittest
 
 class Solution:
     '''
-    space : O(1)
+    space: O(1)
     time: O(n)
     '''
     def isPalindrome(self, s: str):

@@ -32,7 +32,7 @@ import unittest
 
 class Solution:
     '''
-    space : O(n)
+    space: O(n)
     time: O(nlogn)
     '''
     def containsDuplicate(self, nums: List[int]) -> bool:

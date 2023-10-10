@@ -41,7 +41,7 @@ def isBadVersion(version: int) -> bool:
 
 class Solution:
     '''
-    space : O(1)
+    space: O(1)
     time: O(logn)
     '''
     def firstBadVersion(self, n: int) -> int:

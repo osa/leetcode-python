@@ -68,7 +68,7 @@ class ListNode(object):
 
 class Solution(object):
     '''
-    space : O(1)
+    space: O(1)
     time: O(n)
     '''
     def reverseList(self, head: ListNode) -> ListNode:

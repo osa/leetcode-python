@@ -34,7 +34,7 @@ import unittest
 
 class Solution:
     '''
-    space : O(1)
+    space: O(1)
     time: O(logn)
     '''
     def search(self, nums: List[int], target: int) -> int:

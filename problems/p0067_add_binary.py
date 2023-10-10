@@ -26,7 +26,7 @@ import unittest
 
 class Solution:
     '''
-    space : O(max(m,n)) 
+    space: O(max(m,n)) 
     time: O(max(m,n))
     '''
     def addBinary(self, a: str, b: str) -> str:

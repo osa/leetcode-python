@@ -36,7 +36,7 @@ import unittest
 
 class Solution(object):
     '''
-    space : O(n)
+    space: O(n)
     time: O(n)
     '''
     def maxProfit(self, prices: List[int]):

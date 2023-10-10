@@ -60,7 +60,7 @@ class TreeNode:
         
 class Solution:
     '''
-    space : O(1)
+    space: O(1)
     time: O(n)
     '''
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
@@ -72,7 +72,7 @@ class Solution:
         return root
     
     '''
-    space : O(1)
+    space: O(1)
     time: O(n)
     '''
     def invertTreeUsingQueue(self, root: Optional[TreeNode]) -> Optional[TreeNode]:

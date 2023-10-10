@@ -44,7 +44,7 @@ import unittest
 
 class Solution:
     '''
-    space : O(n)
+    space: O(n)
     time: O(n+logn) n = each cell in matrix
     '''
     def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:

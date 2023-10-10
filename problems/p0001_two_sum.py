@@ -44,7 +44,7 @@ import unittest
 
 class Solution:
     '''
-    space : O(n)
+    space: O(n)
     time: O(nlogn)
     '''
     def twoSum(self, nums: List[int], target: int) -> List[int]:
