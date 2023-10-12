@@ -16,6 +16,7 @@
 - [0235 Lowest Common Ancestor of a Binary Search Tree](problems/p0235_lowest_common_ancestor_of_a_binary_search_tree.py)
 - [0242 Valid Anagram](problems/p0125_valid_anagram.py)
 - [0278 First Bad Version](problems/p0278_first_bad_version.py)
+- [0338 Counting Bits](problems/p0338_counting_bits.py)
 - [0383 Ransom Note](problems/p0383_ransom_note.py)
 - [0409 Longest Palindrome](problems/p0409_longest_palindrome.py)
 - [0704 Binary Search](problems/p0704_binary_search.py)
