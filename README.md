@@ -4,6 +4,8 @@
 - [0001 Two Sum](problems/p0001_two_sum.py)
 - [0020 Valid Parentheses](problems/p0020_valid_parentheses.py)
 - [0021 Merge Two Sorted Lists](problems/p0021_merge_two_sorted_lists.py)
+- [0053 Maximum Subarray](problems/p0053_maximum_subarray.py)
+- [0057 Insert Interval](problems/p0057_insert_interval.py)
 - [0067 Add Binary](problems/p0067_add_binary.py)
 - [0110 Balanced Binary Tree](problems/p0110_balanced_binary_tree.py)
 - [0121 Best Time to Buy and Sell Stock](problems/p0121_best_time_to_buy_and_sell_stock.py)

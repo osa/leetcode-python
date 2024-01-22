@@ -81,7 +81,7 @@ class TestTwoSum(unittest.TestCase):
         # asserts
         self.assertEqual(actual, [])
 
-    def test_finds_indices(self):
+    def test_two_sum(self):
         # action
         actual = self.sut.twoSum([2, 7, 11, 15], 9)
 
