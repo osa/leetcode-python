@@ -2,6 +2,7 @@
 ## Personal exercise to stay current with python by solving leetcode problems
 
 - [0001 Two Sum](problems/p0001_two_sum.py)
+- [0008 String to Integer (atoi)](problems/p0008_string_to_integer.py)
 - [0020 Valid Parentheses](problems/p0020_valid_parentheses.py)
 - [0021 Merge Two Sorted Lists](problems/p0021_merge_two_sorted_lists.py)
 - [0053 Maximum Subarray](problems/p0053_maximum_subarray.py)

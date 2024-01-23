@@ -3,8 +3,7 @@ https://leetcode.com/problems/maximum-subarray
 
 53. Maximum Subarray
 Medium
-Topics
-Companies
+
 Given an integer array nums, find the
 subarray
  with the largest sum, and return its sum.
