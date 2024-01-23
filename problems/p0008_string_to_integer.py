@@ -103,6 +103,13 @@ class TestAtoi(unittest.TestCase):
         # asserts
         self.assertEqual(actual, -123)
 
+    def test_non_numeric_characters_after_numberstring(self):
+        # action
+        actual = self.sut.myAtoi(s="123abc")
+
+        # asserts
+        self.assertEqual(actual, 123)
+
     def test_too_low_number(self):
         # action
         actual = self.sut.myAtoi(s="-2147483649")
@@ -119,7 +126,7 @@ class TestAtoi(unittest.TestCase):
 
     def test_atoi(self):
         # action
-        actual = self.sut.myAtoi(s="-1000")
+        actual = self.sut.myAtoi(s="1000")
 
         # asserts
-        self.assertEqual(actual, -1000)
+        self.assertEqual(actual, 1000)
