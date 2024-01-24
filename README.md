@@ -25,3 +25,4 @@
 - [0409 Longest Palindrome](problems/p0409_longest_palindrome.py)
 - [0704 Binary Search](problems/p0704_binary_search.py)
 - [0733 Flood Fill](problems/p0733_flood_fill.py)
+- [0739 Daily Temperatures](problems/p0739_daily_temperatures.py)
