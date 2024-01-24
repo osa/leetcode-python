@@ -48,7 +48,7 @@ class Solution:
         current_sum = nums[0]
 
         for n in nums[1:]:
-            current_sum = max(num, current_sum + num)
+            current_sum = max(n, current_sum + n)
             max_sum = max(max_sum, current_sum)
 
         return max_sum
