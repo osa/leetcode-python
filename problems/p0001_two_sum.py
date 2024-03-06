@@ -51,11 +51,10 @@ class Solution:
         items = {}
 
         for i, num in enumerate(nums):
-            temp = target - num
-            if temp in items:
-                return [items[temp], i]
-            items.update({num: i})
+            if num in items:
+                return [items[num], i]
 
+            items.update({target - num: i})
         return []
 
 
