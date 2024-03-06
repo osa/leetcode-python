@@ -25,6 +25,27 @@ Constraints:
 1 <= temperatures.length <= 105
 30 <= temperatures[i] <= 100
 '''
+
+'''
+from typing import List
+from collections import deque
+import unittest
+
+: [List, Dictionary, Set, Tuple, Range, Enumerate, Iterator, Generator
+
+
+class T(unittest.TestCase):
+    def test_one(self):
+        expected = 'Hello test!'
+
+        actual = say_hello('test')
+
+        self.assertEquals(expected, actual)
+
+
+if __name__ == '__main__':
+    unittest.main()
+'''
 from typing import List
 from collections import deque
 import unittest
